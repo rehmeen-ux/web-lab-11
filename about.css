@@ -1,0 +1,14 @@
+p{
+  color: purple;
+  font-size: 24px;
+  text-align: center;
+  font-style: italic;
+
+  border: 2px solid purple;
+  padding: 20px;
+  border-radius: 10px;
+  width: 60%;
+  margin: 20px auto;
+
+  background-color: #f8f0ff;
+}
